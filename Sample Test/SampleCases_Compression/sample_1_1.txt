@@ -1,0 +1,18 @@
+--R--
+Color - Frequency - Huffman Representation - Total Bits 
+24 - 20299 - 0 - 20299 // 1 bit * 20299
+231 - 19701 - 1 - 19701 // 1 bits * 19701
+*Total =  40000 // 20299 + 19701 bits
+
+--G--
+158 - 30199 - 0 - 30199
+97 - 9801 - 1 - 9801
+*Total = 40000
+
+--B--
+121 - 30100 - 0 - 30100
+134 - 9900 - 1 - 9900
+*Total = 40000
+
+**Compression Output**
+15000 bytes  // 40000 + 40000 + 40000 = 120000 bits = 15000 bytes
