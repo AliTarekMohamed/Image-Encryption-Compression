@@ -17,4 +17,4 @@ Output: A binary file containing the initial seed, tap position, Huffman Tree, a
 Input: Binary file from Stage 1.
 Output: The original image.
 
-![image](https://github.com/user-attachments/assets/2542e55e-8c92-4ed5-b409-9de6ec87e2e1)
+![image](https://github.com/user-attachments/assets/dbb41ba9-afba-4785-8d74-21ebf8d1e633)
